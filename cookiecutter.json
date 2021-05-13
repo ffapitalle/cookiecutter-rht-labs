@@ -1,0 +1,4 @@
+{
+	"sku": "gl006",
+	"project_slug": "rht-labs-{{ cookiecutter.sku }}"
+}
